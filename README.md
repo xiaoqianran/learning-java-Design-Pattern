@@ -4,7 +4,11 @@
 
 结构与体验参考：[learning-vue3](https://github.com/xiaoqianran/learning-vue3)
 
-**仓库：** [https://github.com/xiaoqianran/learning-java-Design-Pattern](https://github.com/xiaoqianran/learning-java-Design-Pattern)
+| | |
+|------|------|
+| **在线（GitHub Pages）** | [https://xiaoqianran.github.io/learning-java-Design-Pattern/](https://xiaoqianran.github.io/learning-java-Design-Pattern/) |
+| **仓库** | [https://github.com/xiaoqianran/learning-java-Design-Pattern](https://github.com/xiaoqianran/learning-java-Design-Pattern) |
+| **部署** | GitHub Actions → Pages（`.github/workflows/deploy-pages.yml`） |
 
 ---
 
