@@ -1,0 +1,3 @@
+# Java Design Patterns Learning
+Interactive Chinese course for GoF design patterns with Java examples.
+Site routes: / /lesson/:slug /docs /patterns /cheatsheet /playground /lab /hub /mistakes /certificate
